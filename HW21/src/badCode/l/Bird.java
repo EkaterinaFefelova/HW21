@@ -1,7 +1,7 @@
 package badCode.l;
 
-class Bird {
-    public void fly() {
-        // лететь
+abstract class Bird {
+    void fly(){
+        //общая логика полета птиц
     }
 }
